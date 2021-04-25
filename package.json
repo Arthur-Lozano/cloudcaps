@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Arthur-Lozano/cloudcaps#readme",
   "dependencies": {
     "aws-sdk": "^2.892.0",
-    "faker": "^5.5.3"
+    "faker": "^5.5.3",
+    "sqs-producer": "^2.1.0"
   }
 }
