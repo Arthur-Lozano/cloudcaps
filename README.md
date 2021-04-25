@@ -5,7 +5,7 @@
 ### Author: Arthur Lozano Jr
 
 
-- [Pull Request] (https://github.com/Arthur-Lozano/bearer-auth/pull/3) 
+- [Pull Request] (https://github.com/Arthur-Lozano/cloudcaps/pull/2) 
 
 # Required Services
 - SNS Topic: pickup which will receive all pickup requests from vendors
