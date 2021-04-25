@@ -1,0 +1,24 @@
+{
+  "name": "cloudcaps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "driver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arthur-Lozano/cloudcaps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arthur-Lozano/cloudcaps/issues"
+  },
+  "homepage": "https://github.com/Arthur-Lozano/cloudcaps#readme",
+  "dependencies": {
+    "aws-sdk": "^2.892.0",
+    "faker": "^5.5.3"
+  }
+}
